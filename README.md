@@ -1,5 +1,4 @@
 # Network Configuration and Host Setup in Python
-![image](https://github.com/Alves34/-Network-Configuration-and-Host-Setup-in-Python/assets/146167968/881c5171-e431-4e7d-a803-456fa9938350)
 
 This Python script enables changes to the network configuration and host name on Linux systems through an interactive console interface.
 
