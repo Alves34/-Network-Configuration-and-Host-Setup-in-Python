@@ -28,4 +28,7 @@ This project is licensed under the GNU General Public License v3.0. See the LICE
 
 ## Author
 
-Adrián Alves
+DuckEndDuffy
+
+
+![Captura de pantalla 2023-12-13 225340](https://github.com/Alves34/-Network-Configuration-and-Host-Setup-in-Python/assets/146167968/5631bfe5-e53b-465d-bb2c-a86eb2791a50)
