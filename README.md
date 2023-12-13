@@ -1,4 +1,5 @@
 # Network Configuration and Host Setup in Python
+![image](https://github.com/Alves34/-Network-Configuration-and-Host-Setup-in-Python/assets/146167968/881c5171-e431-4e7d-a803-456fa9938350)
 
 This Python script enables changes to the network configuration and host name on Linux systems through an interactive console interface.
 
@@ -30,4 +31,4 @@ This project is licensed under the GNU General Public License v3.0. See the LICE
 
 DuckEndDuffy
 
-![Captura de pantalla 2023-12-13 225340](https://github.com/TuUsuario/TuRepositorio/blob/branch/ruta/a/tu/imagen.png)
+
